@@ -1,11 +1,4 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Rho 👨‍💻</h1>
-
-
-
-
-
-
-
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <p align="center"><img align="center" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"  width = 50px/></p>
@@ -41,3 +34,9 @@
 
 <img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/> <img src="https://img.icons8.com/color/48/null/git.png"/>
 <h3 align="center">A passionate developer from Mexico</h3>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=idrodrigo&label=Profile%20views&color=0047AB&style=plastic?" alt="Edwards0307" height=20px, width=100px/>
+  <img src="https://img.shields.io/badge/Lives-Mexico-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-brightgreen" />
+<p/>
+
