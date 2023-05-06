@@ -13,8 +13,8 @@
 
 <p align="center">
 <a href="https://github.com/idrodrigo">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=idrodrigo&theme=moltack&show_icons=true" />
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=idrodrigo&theme=moltack&border_radius=10&date_format=%5BY%20%5DM%20j&card_width=500" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=idrodrigo&theme=moltack&show_icons=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=idrodrigo&theme=moltack&border_radius=10&date_format=%5BY%20%5DM%20j&card_width=500" />
 </a>
     
 </p>
