@@ -13,10 +13,15 @@
 
 <p align="center">
 <a href="https://github.com/idrodrigo">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=idrodrigo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=idrodrigo&layout=compact&langs_count=8&theme=algolia"/>
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=idrodrigo&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=idrodrigo&theme=moltack&show_icons=true" />
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=idrodrigo&theme=moltack&border_radius=10&date_format=%5BY%20%5DM%20j&card_width=500" />
 </a>
+    
+</p>
+<p align="center">
+  <a href="https://github.com/idrodrigo">
+<img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=idrodrigo&layout=compact&langs_count=8&theme=solarized-light"/>
+    </a>
 </p>
 
 <br>
@@ -24,18 +29,24 @@
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <br>
-
+<p align="center">
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/redux.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/null/react-native.png"/> <img src="https://img.icons8.com/color/48/null/bootstrap.png"/>
-
+  </p>
+  <p align="center">
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
-
+  </p>
+   <p align="center"> 
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png"/>
-
+ </p>
+   <p align="center">
 <img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/> <img src="https://img.icons8.com/color/48/null/git.png"/>
+ </p>
+ 
 <h3 align="center">A passionate developer from Mexico</h3>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=idrodrigo&label=Profile%20views&color=0047AB&style=plastic?" alt="Edwards0307" height=20px, width=100px/>
-  <img src="https://img.shields.io/badge/Lives-Mexico-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-brightgreen" />
-<p/>
+  <img src="https://komarev.com/ghpvc/?username=idrodrigo&style=plastic&label=Profile%20views&color=0047AB" />
+  <img src="https://img.shields.io/badge/Lives-Mexico-0047AB?style=plastic" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-0047AB?style=plastic" />
+
+</p>
 
